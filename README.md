@@ -9,7 +9,7 @@ Me chamo Brian, sou do litoral de São Paulo e estudo na Fatec Praia Grande.
 - **Faculdade** Fatec Praia Grande (Análise e Desenvolvimento de Sistemas).
 
 ## Status Github
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brianmb900&layout=compact&title_color=7A7ADB&text_color=black&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brianmb900&layout=compact&title_color=7A7ADB&text_color=black)
   ![Brianmb900 GitHub stats](https://github-readme-stats.vercel.app/api?username=Brianmb900&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=black&hide_border=true")
 
 ## Habilidades
