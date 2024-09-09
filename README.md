@@ -4,7 +4,7 @@ Me chamo Brian, sou do litoral de São Paulo e estudo na Fatec Praia Grande.
 
 ## ℹ️ Informações Importantes
 - **Nome:** Brian Melinski Bianchini
-- **Idade:** 20
+- **Idade:** 21
 - **Moro em:** Praia Grande - SP, Brasil
 - **Faculdade** Fatec Praia Grande (Análise e Desenvolvimento de Sistemas).
 
