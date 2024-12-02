@@ -30,7 +30,7 @@ Me chamo Brian, sou do litoral de São Paulo e estudo na Fatec Praia Grande.
   <a href = "mailto:brianmb18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
  
 <div align="center">
-<br><p align="centre"><b>Total de Vissitas</b></p>  
+<br><p align="centre"><b>Total de Visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Brianmb900}/count.svg" /></p> 
 <br>  
 
