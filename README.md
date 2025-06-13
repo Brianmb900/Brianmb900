@@ -5,7 +5,7 @@ Me chamo Brian, sou do litoral de São Paulo e estudo na ESAMC SANTOS.
 ## ℹ️ Informações Importantes
 - **Nome:** Brian Melinski Bianchini
 - **Idade:** 21
-- **Moro em:** Praia Grande - SP, Brasil
+- **Moro em:** Santos - SP, Brasil
 - **Faculdades:**
 - - **Completas:** Fatec Praia Grande - Análise e Desenvolvimento de Sistemas.
 - - **Em Curso:** ESAMC SANTOS - Engenharia da Computação.
