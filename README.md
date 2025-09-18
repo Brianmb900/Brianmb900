@@ -4,7 +4,7 @@ Me chamo Brian, sou do litoral de São Paulo e estudo na ESAMC SANTOS.
 
 ## ℹ️ Informações Importantes
 - **Nome:** Brian Melinski Bianchini
-- **Idade:** 21
+- **Idade:** 22
 - **Moro em:** Santos - SP, Brasil
 - **Faculdades:**
 - - **Completas:** Fatec Praia Grande - Análise e Desenvolvimento de Sistemas.
@@ -32,9 +32,5 @@ Me chamo Brian, sou do litoral de São Paulo e estudo na ESAMC SANTOS.
   <a href = "mailto:brianmb18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
  
 <div align="center">
-<br><p align="centre"><b>Total de Visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Brianmb900}/count.svg" /></p> 
-<br>  
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/> 
 </div>
