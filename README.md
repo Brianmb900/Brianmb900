@@ -8,7 +8,7 @@ Me chamo Brian, sou do litoral de São Paulo e estudo na ESAMC SANTOS.
 - **Moro em:** Santos - SP, Brasil
 - **Faculdades:**
 - - **Completas:** Fatec Praia Grande - Análise e Desenvolvimento de Sistemas.
-- - **Em Curso:** ESAMC SANTOS - Engenharia da Computação.
+- - **Em Curso:** ESAMC SANTOS - Redes de Computadores.
 
 ## Status Github
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brianmb900&layout=compact&title_color=7A7ADB&text_color=black)
